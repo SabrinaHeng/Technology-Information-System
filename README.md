@@ -23,3 +23,4 @@ This course have learned about the theory of Information System and Technology.
   [Design Thinking](https://github.com/SabrinaHeng/Technology-Information-System/tree/main/Assignment/Design%20Thinking)
 
 </h2>
+<p>Through the study of design thinking, I have learned valuable problem-solving skills and logical thinking abilities that are essential to my chosen program. Additionally, I have learned the significance of effective teamwork in completing tasks assigned by our lecturer. As a group leader, I have also learned to guide my team to success by ensuring the completion of all assigned tasks.</p>
