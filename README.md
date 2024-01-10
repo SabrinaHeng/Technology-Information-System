@@ -8,7 +8,7 @@ This course have learned about the theory of Information System and Technology.
 
 <h2>
   
-  [Industry Visit & Talk](https://github.com/SabrinaHeng/Technology-Information-System/blob/main/Assignment/Career%20Development%20Poster.pdf)
+  [Industry Visit & Talk](https://github.com/SabrinaHeng/Technology-Information-System/tree/main/Assignment)
 
 </h2>
 
