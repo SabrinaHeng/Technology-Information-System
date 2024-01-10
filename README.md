@@ -12,4 +12,20 @@ This course have learned about the theory of Information System and Technology.
 
 </h2>
 
+<h2>
+  
+  [Assignment 2]
 
+</h2>
+
+<h2>
+  
+  [Assignment 3]
+
+</h2>
+
+<h2>
+  
+  [Assignment 4]
+
+</h2>
