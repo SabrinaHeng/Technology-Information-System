@@ -20,6 +20,6 @@ This course have learned about the theory of Information System and Technology.
 
 <h2>
 
-  Design Thinking
+  [Design Thinking](https://github.com/SabrinaHeng/Technology-Information-System/tree/main/Assignment/Design%20Thinking)
 
 </h2>
