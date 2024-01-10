@@ -6,5 +6,10 @@
 
 This course have learned about the theory of Information System and Technology.
 
-<h2>Assignment 1</h2>
-[Assignment 1](https://github.com/SabrinaHeng/Technology-Information-System/blob/main/Assignment/Career%20Development%20Poster.pdf)
+<h2>
+  
+  [Assignment 1](https://github.com/SabrinaHeng/Technology-Information-System/blob/main/Assignment/Career%20Development%20Poster.pdf)
+
+</h2>
+
+
