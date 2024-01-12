@@ -3,8 +3,14 @@
 <img width=”200" height=”200" src="https://github.com/SabrinaHeng/Technology-Information-System/blob/main/Make%20your%20README%20(1).png" alt=”my banner”>
 </p>
 </h1>
+<details>
 
-This course have learned about the theory of Information System and Technology.
+<summary>COURSE INTRODUCTION</summary></br>
+ <p>
+   This course serves as a comprehensive introduction to information systems and technology, covering its practical applications in both personal and professional settings. Hardware, software, network, and communications are among the various aspects of IS/IT that will be examined. Students will gain hands-on experience in PC installation and productivity tools through lab work, which comprises a significant portion of the curriculum. Work-based learning is a crucial component of this class and includes both industry visits and talks. This offers students the opportunity to experience a real working environment, gain insight from industry professionals, and foster a stronger relationship between universities and the industry. Additionally, students will briefly explore the necessary requirements and job specifications for a career in IT.
+ </p> 
+</details>
+
 
 <h2>
   
