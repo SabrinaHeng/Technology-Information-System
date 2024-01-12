@@ -11,12 +11,15 @@
  </p> 
 </details>
 
-
 <h2>
-  
-  [Industry Visit & Talk](https://github.com/SabrinaHeng/Technology-Information-System/tree/main/Assignment)
-
+ <b>List of Course Work</b>
 </h2>
+
+<h3>
+  
+ [Industry Visit & Talk](https://github.com/SabrinaHeng/Technology-Information-System/tree/main/Assignment)
+
+</h3>
 
 <details>
   
@@ -26,11 +29,11 @@
 
 </details>
 
-<h2>
+<h3>
   
   [PC Assembly](https://github.com/SabrinaHeng/Technology-Information-System/tree/main/Assignment/PC%20Assembly)
 
-</h2>
+</h3>
 
 <details>
   
@@ -39,11 +42,11 @@
 
 </details>
 
-<h2>
+<h3>
 
   [Design Thinking](https://github.com/SabrinaHeng/Technology-Information-System/tree/main/Assignment/Design%20Thinking)
 
-</h2>
+</h3>
 
 <details>
   
