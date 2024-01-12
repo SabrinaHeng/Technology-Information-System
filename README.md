@@ -22,7 +22,7 @@ This course have learned about the theory of Information System and Technology.
 
 <h2>
   
-  [PC Assembly]([Assignment/PC Assembly](https://github.com/SabrinaHeng/Technology-Information-System/tree/main/Assignment/PC%20Assembly))
+  [PC Assembly](https://github.com/SabrinaHeng/Technology-Information-System/tree/main/Assignment/PC%20Assembly)
 
 </h2>
 
