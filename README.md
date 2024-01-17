@@ -28,6 +28,22 @@
 
 </details>
 
+<h2>
+ <b>List of Course Work</b>
+</h2>
+
+<h3>
+  
+ [Assignment 2 - UTM Digital Visit](https://github.com/SabrinaHeng/Technology-Information-System/tree/main/Assignment/Assignment2%20UTM%20Digital%20Video)
+
+</h3>
+
+<details>
+  
+  <summary>REFLECTION</summary></br>
+  <p>The activities actually gave a lot of benefit to us as we have the chance to visit the data centre of UTM Digital. This was the first time we saw the data storage of our university and we have also get to know about the information and technology used in here. Otherwise, in this industry visit, they also introduced their team and it acually impressed us as they have a huge team to work together for maintaining the whole technology system for our university.</p>
+
+</details>
 
 <h3>
   
