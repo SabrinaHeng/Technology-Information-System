@@ -17,14 +17,14 @@
 
 <h3>
   
- [Assignment 1 - Career Development]
+ [Assignment 1 - Career Development](https://github.com/SabrinaHeng/Technology-Information-System/blob/main/Assignment/Career%20Development%20Poster.pdf)
 
 </h3>
 
 <details>
   
   <summary>REFLECTION</summary></br>
-  <p></p>
+  <p>During this talk, I was introduced to several crucial aspects surrounding resume building and its significance when applying for future employment opportunities. Additionally, I gained knowledge regarding big data and the distinction between data warehouse and data lake. The session also highlighted the programming languages predominantly used by the company. In summary, the importance of ICT in the industry cannot be overstated, as it enhances operational efficiency and enables prompt responses to customer needs.</p>
 
 </details>
 
