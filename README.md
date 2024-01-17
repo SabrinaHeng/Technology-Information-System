@@ -43,6 +43,19 @@
 
 <h3>
   
+ [Assignment 3 - Academic Report](https://github.com/SabrinaHeng/Technology-Information-System/blob/main/Assignment/TIS%20assignment%203.pdf)
+
+</h3>
+
+<details>
+  
+  <summary>REFLECTION</summary></br>
+  <p>To become a system developer in next four year, I plan to continuously learn additional programming languages and remain life-long learning throughout my career. In addition, I recognize the value of acquiring theoretical knowledge about computing to support my ongoing development. I aspire to leverage the techniques I learn during my industry internship in my final year of university and expand my skill set for future employment opportunities.</p>
+
+</details>
+
+<h3>
+  
  [Industry Visit & Talk](https://github.com/SabrinaHeng/Technology-Information-System/tree/main/Assignment)
 
 </h3>
