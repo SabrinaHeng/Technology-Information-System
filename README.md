@@ -17,6 +17,20 @@
 
 <h3>
   
+ [Assignment 1 - Career Development]
+
+</h3>
+
+<details>
+  
+  <summary>REFLECTION</summary></br>
+  <p></p>
+
+</details>
+
+
+<h3>
+  
  [Industry Visit & Talk](https://github.com/SabrinaHeng/Technology-Information-System/tree/main/Assignment)
 
 </h3>
