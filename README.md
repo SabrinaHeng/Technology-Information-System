@@ -56,15 +56,14 @@
 
 <h3>
   
- [Industry Visit & Talk](https://github.com/SabrinaHeng/Technology-Information-System/tree/main/Assignment)
+ [Assignment 4 - Industrial Visit](https://github.com/SabrinaHeng/Technology-Information-System/blob/main/Assignment/INDUSTRIAL%20VISIT%20NEWSLETTER.pdf)
 
 </h3>
 
 <details>
   
   <summary>REFLECTION</summary></br>
-  <p>Reflecting back on my recent industrial visit to Petronas and Huawei, I was fortunate to have the opportunity to experience these companies firsthand. The visit provided me with an invaluable insight into the lives of those in the computer industry, whom I will undoubtedly encounter in the future. The talk during industrial visit was particularly inspiring, and it has encouraged me to embrace the challenges, experiences, and difficulties that lie ahead.</br></br>
-    The talk have emphasized the importance of continuous learning throughout our lives, particularly in computer science, where skills and knowledge are constantly evolving. To conclude, I am eager to become more involved in this field and intend to dedicate my free time to learning additional techniques and enhancing my understanding to become more knowledgeable in this area.</p>
+  <p>Reflecting back on the industrial visit to Petronas and Huawei, it was a wonderful opportunity to experience a visit to those companies. I am given the chance to know about life of ‘computer people’ that I will going to face during future. The life experience by Mr. Roman Kvaska makes me more looking forward to my future works, experience and difficulty which I would face. Otherwise, from him, I realize that everyone is actually keep learning on different stage of life and he also keep advise us to have self-learning in computer science skills and knowledge that we are not so expert in. Moreover, I was impressed about the technology and computing who really helps human being convenience and improve our life. In conclusion, I hope that I have the chance to involve myself in this field and now I would spend my free time to learning extra technique to improve myself and become knowledgeable in this field.</p>
 
 </details>
 
