@@ -28,10 +28,6 @@
 
 </details>
 
-<h2>
- <b>List of Course Work</b>
-</h2>
-
 <h3>
   
  [Assignment 2 - UTM Digital Visit](https://github.com/SabrinaHeng/Technology-Information-System/tree/main/Assignment/Assignment2%20UTM%20Digital%20Video)
